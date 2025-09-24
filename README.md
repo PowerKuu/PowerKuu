@@ -1,2 +1,2 @@
-- 👋  Im am a developer from Norway.
+- 👋  Im am a developer from Norway
 - 🤓  TypeScript GURU
